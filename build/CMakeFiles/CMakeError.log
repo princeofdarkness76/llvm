@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/gmake" "cmTC_7b37a/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_7b37a.dir/build.make CMakeFiles/cmTC_7b37a.dir/build
+gmake[1]: Entering directory '/Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_7b37a.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+Makefile:126: recipe for target 'cmTC_7b37a/fast' failed
+gmake: *** [cmTC_7b37a/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: /Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/gmake" "cmTC_0b8f4/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_0b8f4.dir/build.make CMakeFiles/cmTC_0b8f4.dir/build
+gmake[1]: Entering directory '/Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/Users/stevenjames2/Documents/clang-omp:llvm/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_0b8f4.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+Makefile:126: recipe for target 'cmTC_0b8f4/fast' failed
+gmake: *** [cmTC_0b8f4/fast] Error 2
+
+
+
